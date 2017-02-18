@@ -1,0 +1,7 @@
+#!/bin/bash
+export LANG=zh_CN.UTF-8
+#curl -s http://www.hsdefz.com/hsefz/
+wget -D hsdefz.com -k -r -p -l inf -t 5 -U "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36" --show-progress http://www.hsdefz.com/ >wget.log 2>&1
+#cat teachers.list |xargs -n 1 wget -D hsdefz.com -k -r -p -l inf -t 5 -U "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36" --show-progress
+echo "Exit code:${?}" >>wget.log
+exit 0
