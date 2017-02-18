@@ -1,0 +1,73 @@
+
+
+<HTML>
+<HEAD>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<link href="../css/css.css" rel="stylesheet" type="text/css">
+<style>
+<!--
+td {
+	font-family: "宋体", "tahoma";
+	font-size: 9pt;
+	line-height: 14pt;
+	text-decoration: none;
+}
+.more A {FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: tahoma; TEXT-DECORATION: none}
+.more A:visited {FONT-SIZE: 9pt; COLOR: #000000; TEXT-DECORATION: none}
+.more A:link {FONT-SIZE: 9pt; COLOR: #000000; TEXT-DECORATION: none}
+.more A:hover {COLOR: #494977; TEXT-DECORATION: underline}
+-->
+</style>
+<SCRIPT language="JScript.encode">
+	#@~^KgAAAA==-mD~T{!DV,',Eq	0GzzNhr	zq	WWjk+9GiD^Rm/2JIeQ4AAA==^#~@	
+</SCRIPT>
+<script language="javascript" src="http://www.hsdefz.com/hsefz/library/pub.js"></script>
+<script language="javascript">
+	function Remark()
+	{
+		if(AllTrim(document.form1.CommentContent.value) == "")
+		{
+			window.alert("评论内容不能为空!");
+			return;
+		}
+		document.form1.action = "InfoRemark.asp?IsRemark=1&InfoID=3545&CatalogID=376";
+		document.form1.submit();	
+	}
+	
+	function SetImage(objImage)
+	{
+		if((objImage.width-(800-150))>0) objImage.width=550;
+	}
+	
+</script>
+<script language="javascript">
+	//kstatus();
+	function kstatus()
+	{
+		self.status = "";
+		setTimeout("kstatus()",10);
+	}
+</script>
+<TITLE></TITLE>
+</HEAD>
+
+<BODY bgcolor="#0F3085">
+<br><br>
+
+<script language='javascript'>document.title='关于成立教工乒乓协会的通知';</script><table width='680' height='100%' border='0' align='center' cellpadding='0' cellspacing='0' bgcolor='#FFFFFF' style='background-image:url(http://www.hsdefz.com/hsefz/Info/images/bg2.gif)'><tr><td colspan='2' rowspan='2' valign='top' class='listborder'><table width='95%' border='0' align='center' cellpadding='0' cellspacing='0' class='newstext'><tr><td><div id='InfoPath'>文明在线 > 创建特色 > 教师协会 >  正文</div><P><div align='center'><b style='font-size:12pt;'>关于成立教工乒乓协会的通知</b></div><P><hr size='1'><div align='center' style='font-size:9pt'>2011年12月15日&nbsp;16:34&nbsp;&nbsp;阅读次数:900&nbsp;&nbsp;发布者:沈晓晴</div><p><P style="TEXT-ALIGN: center; LINE-HEIGHT: 150%; TEXT-INDENT: 13.5pt" align=center><B style="mso-bidi-font-weight: normal"><SPAN style="LINE-HEIGHT: 150%; FONT-SIZE: 10.5pt; mso-ascii-theme-font: minor-fareast; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-fareast; mso-ascii-font-family: 宋体; mso-hansi-font-family: 宋体"><FONT face=宋体>关于成立教工乒乓协会的通知</FONT></SPAN></B><SPAN style="LINE-HEIGHT: 150%; FONT-SIZE: 10.5pt; mso-ascii-theme-font: minor-fareast; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-fareast; mso-ascii-font-family: 宋体; mso-hansi-font-family: 宋体" lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p><FONT face=宋体>&nbsp;</FONT></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt"><FONT face=宋体><SPAN style="LINE-HEIGHT: 150%; FONT-SIZE: 10.5pt; mso-ascii-theme-font: minor-fareast; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-fareast; mso-ascii-font-family: 宋体; mso-hansi-font-family: 宋体">有鉴于近年来全民体育的浪潮，为了让教职工能够有健康的身体，现在我们几位爱好乒乓球的朋友打算成立乒乓协会。乒乓球运动可以锻炼人的敏捷性、动作的准确性。随着眼睛随球的快速移动提高了关注力、判断力，而且运动量不是很大，老少咸宜。</SPAN></FONT><SPAN style="LINE-HEIGHT: 150%; FONT-SIZE: 10.5pt; mso-ascii-theme-font: minor-fareast; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-fareast; mso-ascii-font-family: 宋体; mso-hansi-font-family: 宋体; mso-bidi-font-family: Tahoma" lang=EN-US><o:p><FONT face=宋体>&nbsp;</FONT></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%"><FONT face=宋体><B style="mso-bidi-font-weight: normal"><SPAN style="LINE-HEIGHT: 150%; FONT-SIZE: 10.5pt; mso-ascii-theme-font: minor-fareast; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-fareast; mso-ascii-font-family: 宋体; mso-hansi-font-family: 宋体">协会的口号</SPAN></B><SPAN style="LINE-HEIGHT: 150%; FONT-SIZE: 10.5pt; mso-ascii-theme-font: minor-fareast; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-fareast; mso-ascii-font-family: 宋体; mso-hansi-font-family: 宋体">：<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%"><FONT face=宋体><SPAN style="LINE-HEIGHT: 150%; FONT-SIZE: 10.5pt; mso-ascii-theme-font: minor-fareast; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-fareast; mso-ascii-font-family: 宋体; mso-hansi-font-family: 宋体" lang=EN-US><SPAN style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp; </SPAN></SPAN><SPAN style="LINE-HEIGHT: 150%; FONT-SIZE: 10.5pt; mso-ascii-theme-font: minor-fareast; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-fareast; mso-ascii-font-family: 宋体; mso-hansi-font-family: 宋体">乒乓有形，快乐无限。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%"><FONT face=宋体><B style="mso-bidi-font-weight: normal"><SPAN style="LINE-HEIGHT: 150%; FONT-SIZE: 10.5pt; mso-ascii-theme-font: minor-fareast; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-fareast; mso-ascii-font-family: 宋体; mso-hansi-font-family: 宋体">协会的宗旨</SPAN></B><SPAN style="LINE-HEIGHT: 150%; FONT-SIZE: 10.5pt; mso-ascii-theme-font: minor-fareast; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-fareast; mso-ascii-font-family: 宋体; mso-hansi-font-family: 宋体">：<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%"><FONT face=宋体><SPAN style="LINE-HEIGHT: 150%; FONT-SIZE: 10.5pt; mso-ascii-theme-font: minor-fareast; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-fareast; mso-ascii-font-family: 宋体; mso-hansi-font-family: 宋体" lang=EN-US><SPAN style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp; </SPAN></SPAN><SPAN style="LINE-HEIGHT: 150%; FONT-SIZE: 10.5pt; mso-ascii-theme-font: minor-fareast; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-fareast; mso-ascii-font-family: 宋体; mso-hansi-font-family: 宋体">锻炼身体，交流球技，增进友谊，加强团结。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%"><FONT face=宋体><B style="mso-bidi-font-weight: normal"><SPAN style="LINE-HEIGHT: 150%; FONT-SIZE: 10.5pt; mso-ascii-theme-font: minor-fareast; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-fareast; mso-ascii-font-family: 宋体; mso-hansi-font-family: 宋体">协会的活动内容</SPAN></B><SPAN style="LINE-HEIGHT: 150%; FONT-SIZE: 10.5pt; mso-ascii-theme-font: minor-fareast; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-fareast; mso-ascii-font-family: 宋体; mso-hansi-font-family: 宋体">：<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 20.25pt"><SPAN style="LINE-HEIGHT: 150%; FONT-SIZE: 10.5pt; mso-ascii-theme-font: minor-fareast; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-fareast; mso-ascii-font-family: 宋体; mso-hansi-font-family: 宋体"><FONT face=宋体>理论研究，外聘教练，多球练习，对抗训练，接球发球练习，协会内比赛<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 150%"><FONT face=宋体><B style="mso-bidi-font-weight: normal"><SPAN style="LINE-HEIGHT: 150%; FONT-SIZE: 10.5pt; mso-ascii-theme-font: minor-fareast; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-fareast; mso-ascii-font-family: 宋体; mso-hansi-font-family: 宋体">协会的活动时间</SPAN></B><SPAN style="LINE-HEIGHT: 150%; FONT-SIZE: 10.5pt; mso-ascii-theme-font: minor-fareast; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-fareast; mso-ascii-font-family: 宋体; mso-hansi-font-family: 宋体">：<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 20.25pt"><SPAN style="LINE-HEIGHT: 150%; FONT-SIZE: 10.5pt; mso-ascii-theme-font: minor-fareast; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-fareast; mso-ascii-font-family: 宋体; mso-hansi-font-family: 宋体"><FONT face=宋体>每星期活动两次<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 20.25pt"><FONT face=宋体><SPAN style="LINE-HEIGHT: 150%; FONT-SIZE: 10.5pt; mso-ascii-theme-font: minor-fareast; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-fareast; mso-ascii-font-family: 宋体; mso-hansi-font-family: 宋体">周一中午</SPAN><SPAN style="LINE-HEIGHT: 150%; FONT-SIZE: 10.5pt; mso-ascii-theme-font: minor-fareast; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-fareast; mso-ascii-font-family: 宋体; mso-hansi-font-family: 宋体; mso-bidi-font-family: Tahoma" lang=EN-US> 12:10 - 13:10<o:p></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 20.25pt"><FONT face=宋体><SPAN style="LINE-HEIGHT: 150%; FONT-SIZE: 10.5pt; mso-ascii-theme-font: minor-fareast; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-fareast; mso-ascii-font-family: 宋体; mso-hansi-font-family: 宋体">周三下午</SPAN><SPAN style="LINE-HEIGHT: 150%; FONT-SIZE: 10.5pt; mso-ascii-theme-font: minor-fareast; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-fareast; mso-ascii-font-family: 宋体; mso-hansi-font-family: 宋体; mso-bidi-font-family: Tahoma" lang=EN-US> 6:00 - 8:00</SPAN></FONT><SPAN style="LINE-HEIGHT: 150%; FONT-SIZE: 10.5pt; mso-ascii-theme-font: minor-fareast; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-fareast; mso-ascii-font-family: 宋体; mso-hansi-font-family: 宋体; mso-bidi-font-family: Tahoma" lang=EN-US><o:p><FONT face=宋体>&nbsp;</FONT></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%"><FONT face=宋体><SPAN style="LINE-HEIGHT: 150%; FONT-SIZE: 10.5pt; mso-ascii-theme-font: minor-fareast; mso-fareast-font-family: 宋体; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-fareast; mso-ascii-font-family: 宋体; mso-hansi-font-family: 宋体">有意向的请与陈赓芳老师联系。望大家积极参与。</SPAN></FONT></P></p><hr size='1'><div align='right'>【<a href='javascript:void(window.close())' class='BlackBlod'>关闭窗口</a>】</div></tr></table><br></td><td width='6' height='13' align='left' valign='top' background='../images/bk_leftm.jpg'><img src='../images/bk_leftt.jpg' width='6' height='13'></td></tr><tr><td background='../images/bk_leftm.jpg' width='6' height='100%'></td></tr><tr><td height='7' width='7' align='left' valign='top'><img src='../images/bk_downl.jpg' width='7' height='7'></td><td background='../images/bk_downm.jpg' height='7' width='100%'></td><td><img src='../images/bk_downr.jpg' width='6' height='7'></td></tr></table>
+
+<br><br>
+</BODY>
+</HTML>

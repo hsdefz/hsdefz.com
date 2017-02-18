@@ -1,0 +1,105 @@
+A {
+	FONT-SIZE: 9pt; COLOR: #000000; TEXT-DECORATION: none
+}
+A:link {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+.default A {
+	FONT-SIZE: 9pt; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.default A:visited {
+	FONT-SIZE: 9pt; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.default A:link {
+	FONT-SIZE: 9pt; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.default A:hover {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.menu2 A {
+	FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: tahoma; TEXT-DECORATION: none
+}
+.menu2 A:visited {
+	FONT-SIZE: 9pt; COLOR: #000000; TEXT-DECORATION: none
+}
+.menu2 A:link {
+	FONT-SIZE: 9pt; COLOR: #000000; TEXT-DECORATION: none
+}
+.menu2 A:hover {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+.bar A {
+	FONT-SIZE: 9pt; COLOR: #ffffff; FONT-FAMILY: tahoma; TEXT-DECORATION: none
+}
+.bar A:visited {
+	FONT-SIZE: 9pt; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.bar A:link {
+	FONT-SIZE: 9pt; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.bar A:hover {
+	COLOR: #ffff99; TEXT-DECORATION: underline
+}
+.link A {
+	FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: tahoma; TEXT-DECORATION: none
+}
+.link A:visited {
+	FONT-SIZE: 9pt; COLOR: #000000; TEXT-DECORATION: none
+}
+.link A:link {
+	FONT-SIZE: 9pt; COLOR: #000000; TEXT-DECORATION: none
+}
+.link A:hover {
+	COLOR: #ff9934; TEXT-DECORATION: underline
+}
+.navigation A {
+	FONT-SIZE: 9pt; COLOR: #363636; TEXT-DECORATION: none
+}
+.navigation A:visited {
+	FONT-SIZE: 9pt; COLOR: #363636; TEXT-DECORATION: none
+}
+.navigation A:link {
+	FONT-SIZE: 9pt; COLOR: #363636; TEXT-DECORATION: none
+}
+.navigation A:hover {
+	COLOR: #ff7800; TEXT-DECORATION: underline
+}
+.bb A {
+	FONT-SIZE: 9pt; TEXT-DECORATION: none
+}
+.bb A:visited {
+	FONT-SIZE: 9pt; TEXT-DECORATION: none
+}
+.bb A:link {
+	FONT-SIZE: 9pt; TEXT-DECORATION: none
+}
+.bb A:hover {
+	TEXT-DECORATION: underline
+}
+.copyright {
+	FONT-SIZE: 9pt; COLOR: #000000; LINE-HEIGHT: 14pt; FONT-FAMILY: "ËÎÌו"; TEXT-DECORATION: none
+}
+.text {
+	FONT-SIZE: 9pt; COLOR: #000000; LINE-HEIGHT: 14pt; FONT-FAMILY: "tahoma"; TEXT-DECORATION: none
+}
+.text2 {
+	FONT-SIZE: 9pt; COLOR: #000000; LINE-HEIGHT: 14pt; TEXT-DECORATION: none
+}
+.tdbg1 {
+	BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(http://www.hsdefz.com/hsefz/userpage/students/literature/_resource/cellbg2.gif); BACKGROUND-REPEAT: no-repeat
+}
+.tdbg2 {
+	BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(http://www.hsdefz.com/hsefz/userpage/students/literature/_resource/imgs/sidebar_buttom.gif); BACKGROUND-REPEAT: no-repeat
+}
+.tdbg3 {
+	BACKGROUND-POSITION: left top; BACKGROUND-IMAGE: url(http://www.hsdefz.com/hsefz/userpage/students/literature/_resource/imgs/side_news.jpg); BACKGROUND-REPEAT: no-repeat
+}
+UL {
+	DISPLAY: list-item; LIST-STYLE-POSITION: outside
+}

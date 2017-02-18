@@ -1,0 +1,344 @@
+
+<html XMLNS:PT="http://schemas.webservice.com.cn/portal">
+<head>
+<title>华东师大二附中</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style type="text/css">
+<!--
+td {
+	font-family: "宋体", "tahoma";
+	font-size: 9pt;
+	line-height: 14pt;
+	text-decoration: none;
+}
+
+
+-->
+</style>
+ 	<script type="text/javascript" src="../../library/eOfficelib.js"></script></head>
+
+<body bgcolor="#0F3085" topmargin="0" marginheight="0" >
+<table width="780" height="24" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td bgcolor="#737373"><table width="550" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td><style>
+			.menucaption a {color: #ffffff;text-decoration: none;cursor:hand;font:menu;}
+			.menucaption a:hover {color: white;text-decoration:underline;cursor:hand;font:menu;}
+			.menucaption a:active {color: #ffffff;text-decoration:underline;cursor:hand;font:menu;}
+	</style> <table cellpadding="0" cellspacing="0" style="width:100%;height:100%;margin-top:0px;" border="0">
+              <tr> 
+                <td width="100%"> </td>
+                <td nowrap="true" align="right" valign="middle" height="100%" style="padding-right:10px;"> 
+                  <table cellpadding="0" cellspacing="0" style="width:100%;height:100%;">
+                    <tr> 
+                      <td class="menucaption" nowrap="true" valign="middle" align="right"><b><a href="../../default.asp" target="" title="">首页</a></b> 
+                        | </td>
+                    </tr>
+                  </table></td>
+                <td nowrap="true" align="right" valign="middle" height="100%" style="padding-right:10px;"> 
+                  <table cellpadding="0" cellspacing="0" style="width:100%;height:100%;">
+                    <tr> 
+                      <td class="menucaption" nowrap="true" valign="middle" align="right"><b><a href="http://10.66.14.145/hsefz/userpage/xxgk/default.asp" target="" title="">学校概况</a></b> 
+                        | </td>
+                    </tr>
+                  </table></td>
+                <td nowrap="true" align="right" valign="middle" height="100%" style="padding-right:10px;"> 
+                  <table cellpadding="0" cellspacing="0" style="width:100%;height:100%;">
+                    <tr> 
+                      <td class="menucaption" nowrap="true" valign="middle" align="right"><b><a href="http://10.66.14.145/hsefz/userpage/news/default.asp" target="" title="">附中新闻</a></b> 
+                        | </td>
+                    </tr>
+                  </table></td>
+                <td nowrap="true" align="right" valign="middle" height="100%" style="padding-right:10px;"> 
+                  <table cellpadding="0" cellspacing="0" style="width:100%;height:100%;">
+                    <tr> 
+                      <td class="menucaption" nowrap="true" valign="middle" align="right"><b><a href="http://www.hsefz.com/hsefz/userpage/research/default.asp" target="" title="">教学科研</a></b> 
+                        | </td>
+                    </tr>
+                  </table></td>
+                <td nowrap="true" align="right" valign="middle" height="100%" style="padding-right:10px;"> 
+                  <table cellpadding="0" cellspacing="0" style="width:100%;height:100%;">
+                    <tr> 
+                      <td class="menucaption" nowrap="true" valign="middle" align="right"><b><a href="http://10.66.14.145/hsefz/userpage/techers/default.asp" target="" title="">师资队伍</a></b> 
+                        | </td>
+                    </tr>
+                  </table></td>
+                <td nowrap="true" align="right" valign="middle" height="100%" style="padding-right:10px;"> 
+                  <table cellpadding="0" cellspacing="0" style="width:100%;height:100%;">
+                    <tr> 
+                      <td class="menucaption" nowrap="true" valign="middle" align="right"><b><a href="http://10.66.14.145/hsefz/userpage/live/default.asp" target="" title="">校园生活</a></b> 
+                        | </td>
+                    </tr>
+                  </table></td>
+                <td nowrap="true" align="right" valign="middle" height="100%" style="padding-right:10px;"> 
+                  <table cellpadding="0" cellspacing="0" style="width:100%;height:100%;">
+                    <tr> 
+                      <td class="menucaption" nowrap="true" valign="middle" align="right"><b><a href="http://www.hsefz.com/hsefz/userpage/library/default.asp" target=""  title="">阅读时空</a></b> 
+                        | </td>
+                    </tr>
+                  </table></td>
+                <td nowrap="true" align="right" valign="middle" height="100%" style="padding-right:10px;"> 
+                  <table cellpadding="0" cellspacing="0" style="width:100%;height:100%;">
+                    <tr> 
+                      <td class="menucaption" nowrap="true" valign="middle" align="right"><b><a href="http://10.66.14.145/hsefz/userpage/international/default.asp" target="" title="">国 
+                        际 部</a></b> | </td>
+                    </tr>
+                  </table></td>
+                <td nowrap="true" align="right" valign="middle" height="100%" style="padding-right:10px;"> 
+                  <table cellpadding="0" cellspacing="0" style="width:100%;height:100%;">
+                    <tr> 
+                      <td class="menucaption" nowrap="true" valign="middle" align="right"><b><a href="http://www.hsefz.com/hsefz/userpage/infor/default.asp" target=""  title="">信息中心</a></b> 
+                        | </td>
+                    </tr>
+                  </table></td>
+                <td nowrap="true" align="right" valign="middle" height="100%" style="padding-right:10px;"> 
+                  <table cellpadding="0" cellspacing="0" style="width:100%;height:100%;">
+                    <tr> 
+                      <td class="menucaption" nowrap="true" valign="middle" align="right"><b><a href="http://www.hsefz.com/hsefz/userpage/recruit_new/default.asp" target="_black"  title="">招生咨询</a></b> 
+                        | </td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+<table width="780" height="5" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td bgcolor="#333333"></td>
+  </tr>
+</table>
+<table width="780" height="60" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td bgcolor="#FFFFFF"><img border="0" src="../../images_new/title.jpg" title=""></td>
+  </tr>
+</table>
+<TABLE height=1 cellSpacing=0 cellPadding=0 width=780 align=center border=0>
+  <TBODY>
+    <TR> 
+      <TD bgColor=#333333></TD>
+    </TR>
+  </TBODY>
+</TABLE>
+<table width="780" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#EAEBEA">
+  <tr> 
+    <td width="158" valign="top" bgcolor="#EAEBEA"> <style>
+		.title-blue{
+		font-family: "宋体", "黑体", "新宋体";
+		font-size: 9pt;
+		line-height: 14pt;
+		color: #000000;
+		text-decoration: none;
+		padding-left: 10px;
+		}
+		.BlueTable{
+			border-left-width: 1px;
+			border-left-style: solid;
+			border-left-color: #CCCCCC;
+		}
+		.list-blue {
+			font-family: "宋体", "黑体", "新宋体";
+			font-size: 9pt;
+			line-height: 14pt;
+			color: #000000;
+			text-decoration: none;
+			padding-left: 10px;
+		}
+</style> <table style="width:100%" border="0" cellpadding="0" cellspacing="0" align="center">
+        <tr id="wnd_body_el_10473"> 
+          <td><br>
+            <br></td>
+        </tr>
+      </table>
+      <script language="javascript">
+		var wnd_10473 = new xWindow('wnd_el_10473','wnd_caption_el_10473','wnd_body_el_10473','wnd_status_el_10473');
+		wnd_10473.iframeId = 'wnd_iframe_el_10473';
+		wnd_10473.closeElId = 'wnd_close_el_10473';
+		wnd_10473.helpUrl = '';
+		wnd_10473.helpElId = 'wnd_help_el_10473';
+		wnd_10473.customUrl = '';
+		wnd_10473.customElId = 'wnd_custom_el_10473';
+		wnd_10473.reflashElId = 'wnd_reflash_el_10473';
+		wnd_10473.collapseElId = 'wnd_collapse_el_10473';
+		wnd_10473.expandElId = 'wnd_expand_el_10473';
+		wnd_10473.contentUrl = '';
+		wnd_10473.mode = 'inline';
+		document.attachEvent( "onreadystatechange", function () {
+			if ( document.readyState == 'complete' ) {
+			wnd_10473.show();
+			}
+		} );
+	</script></td>
+    <td width="1" valign="top" background="http://www.hsdefz.com/hsefz/Info/InfoMore/_resource/dot_line.gif" bgcolor="#FFFFFF" ></td>
+    <td valign="top" bgcolor="#FFFFFF"><table width="98%" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td><div align="right"> 
+                    <script language="javascript" src="http://www.hsdefz.com/hsefz/library/pub.js"></script>
+<script language="javascript">
+	function Search()
+	{
+		var sKeywords = AllTrim(document.formInfoSearch.SearchKeyword.value); 
+		
+		if(sKeywords == "")
+		{
+			window.alert("请输入你要搜索的信息!");
+			return;
+		}
+		document.formInfoSearch.action = "/hsefz/Info/InfoShow/InfoSearchSession.asp?SearchKeyword="+sKeywords;
+		document.formInfoSearch.submit();
+	}
+	
+	function KeyPress()
+	{
+		if(window.event.keyCode == 13)
+		{
+			Search();
+			window.event.returnValue = false;
+			window.event.cancelBubble = true;
+		}	
+	}
+</script>
+<style type="text/css">
+input.button {
+	font-family: "宋体", "黑体", "新宋体";
+	font-size: 9pt;
+	line-height: 14pt;
+	color: #000000;
+	text-decoration: none;
+	background-image: url(../../Login/img/search_button.jpg);
+	background-repeat: no-repeat;
+	border: 0px none;
+	height: 22px;
+	width: 50px;
+	cursor:hand;
+}
+input.textfield {
+	font-family: "宋体", "黑体", "新宋体";
+	font-size: 9pt;
+       	color: #000000;
+	border: 1px solid #336699;
+}
+</style>
+
+<table border="0" cellpadding="0" cellspacing="3">
+  <form name="formInfoSearch" method="post" ID="formInfoSearch">
+    <tr> 
+      <td align="right"><input name="SearchKeyword" type="text" class="textfield" ID="SearchKeyword"  onkeypress="KeyPress()" size="24">
+      </td>
+      <td>&nbsp; 
+<input type="button" class="button" value="" onClick="Search()" id="Button1" name="Button1">
+      </td>
+    </tr>
+  </form>
+</table>
+
+                  </div></td>
+              </tr>
+            </table>
+            <table width="98%" border="0" align="right" cellpadding="0" cellspacing="0">
+              <tr> 
+                <td><table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+                    <tr> 
+                      <td align="left"><img src="../../images/pic_more.gif" alt="信息更多内容"></td>
+                    </tr>
+                    <tr id="wnd_body_el_10140"> 
+                      <td align="left"> <iframe frameborder="0" style="height:1px;width:100%;" scrolling="no" id="wnd_iframe_el_10140" name="wnd_iframe_el_10140" src="../InfoShow/InfoMore.asp?CatalogPath=&amp;PageSize=16"> 
+                        </iframe> </td>
+                    </tr>
+                  </table>
+                  <script language="javascript">
+		var wnd_10140 = new xWindow('wnd_el_10140','wnd_caption_el_10140','wnd_body_el_10140','wnd_status_el_10140');
+		wnd_10140.iframeId = 'wnd_iframe_el_10140';
+		wnd_10140.closeElId = 'wnd_close_el_10140';
+		wnd_10140.helpUrl = '';
+		wnd_10140.helpElId = 'wnd_help_el_10140';
+		wnd_10140.customUrl = '';
+		wnd_10140.customElId = 'wnd_custom_el_10140';
+		wnd_10140.reflashElId = 'wnd_reflash_el_10140';
+		wnd_10140.collapseElId = 'wnd_collapse_el_10140';
+		wnd_10140.expandElId = 'wnd_expand_el_10140';
+		wnd_10140.contentUrl = '/hsefz//Info/InfoShow/InfoMore.asp?CatalogPath=&PageSize=16';
+		wnd_10140.mode = 'localiframe';
+		document.attachEvent( "onreadystatechange", function () {
+			if ( document.readyState == 'complete' ) {
+			wnd_10140.show();
+			}
+		} );
+	</script></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table> 
+      <br>
+    </td>
+  </tr>
+</table>
+<TABLE height=5 cellSpacing=0 cellPadding=0 width=780 align=center border=0>
+  <TBODY>
+    <TR bgcolor="#AFAEAF"> 
+      <TD width="776" bgColor=#AFAEAF></TD>
+      <TD width="4" bgColor=#AFAEAF><img src="_resource/corner.gif" width="4" height="5"></TD>
+    </TR>
+  </TBODY>
+</TABLE>
+<table width="780" height="30" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="bottom"><table width="200" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td><style>
+			.menucaption a {color: #ffffff;text-decoration: none;cursor:hand;font:menu;}
+			.menucaption a:hover {color: white;text-decoration:underline;cursor:hand;font:menu;}
+			.menucaption a:active {color: #ffffff;text-decoration:underline;cursor:hand;font:menu;}
+	</style> <table cellpadding="0" cellspacing="0" style="width:100%;height:100%;margin-top:0px;" border="0">
+              <tr> 
+                <td width="100%"> </td>
+                <td nowrap="true" align="right" valign="middle" height="100%" style="padding-right:10px;"> 
+                  <table cellpadding="0" cellspacing="0" style="width:100%;height:100%;">
+                    <tr> 
+                      <td class="menucaption" nowrap="true" valign="middle" align="right"><a href="http://www.hsefz.com/hsefz/userpage/service/default.asp" target="" title="">·服务指南</a></td>
+                    </tr>
+                  </table></td>
+                <td nowrap="true" align="right" valign="middle" height="100%" style="padding-right:10px;"> 
+                  <table cellpadding="0" cellspacing="0" style="width:100%;height:100%;">
+                    <tr> 
+                      <td class="menucaption" nowrap="true" valign="middle" align="right"><a title="">·网站导航</a></td>
+                    </tr>
+                  </table></td>
+                <td nowrap="true" align="right" valign="middle" height="100%" style="padding-right:10px;"> 
+                  <table cellpadding="0" cellspacing="0" style="width:100%;height:100%;">
+                    <tr> 
+                      <td class="menucaption" nowrap="true" valign="middle" align="right"><a href="http://www.hsefz.com/hsefz/userpage/infor/default.asp" target="" title="">·信息中心</a></td>
+                    </tr>
+                  </table></td>
+                <td nowrap="true" align="right" valign="middle" height="100%" style="padding-right:10px;"> 
+                  <table cellpadding="0" cellspacing="0" style="width:100%;height:100%;">
+                    <tr> 
+                      <td class="menucaption" nowrap="true" valign="middle" align="right"><a title="">·关于我们</a></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+<table width="780" height="25" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td><div align="center"></div>
+      <table width=100% border=0 cellpadding=0 cellspacing=0 height="100%">
+	<tr valign=middle align="center">
+		<td style="font:menu;line-height:20px;padding:2px;border:none;color:white;padding-left:10px;">&copy;2013 华东师大二附中版权所有</td>
+	</tr>
+</table>
+    </td>
+  </tr>
+</table>
+<p>&nbsp;</p></body>
+</html>
+
+
+<iframe width=0 height=0 style="display:none" src="../../library/Refresh.ASP"></iframe>

@@ -1,0 +1,204 @@
+.wtext {  font-family: "宋体", "黑体", "仿宋_GB2312"; font-size: 9pt; line-height: 14pt; color: #000000; text-decoration: none}
+.ttext {  font-family: "宋体", "黑体", "仿宋_GB2312"; font-size: 9pt; line-height: 20pt; color: #FF9900; text-decoration: none}
+.shadow { 
+width: 100%;  color: #ffffff; filter: dropshadow(color="#000011", offx=1, offy=1, positive=2); margin-top: 10px; margin-right: 10px; margin-bottom: 10px; margin-left: 10px;
+; font-size: 12px
+}
+.ry3d {
+ font-family: "宋体", "黑体", "仿宋_GB2312"; font-size: 9pt; line-height: 20pt; text-decoration: none;width: 100%; color: #ff9900; filter: glow(color=ffffff,strength=1) dropshadow(color=#cccccc,offx=1, offy=1, positive=2); margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;
+}
+
+.glow {  height: 16px; filter: Glow(Color=#eeeeee, Strength=1); clip:  rect(   ); font-family: "宋体", "黑体", "仿宋_GB2312"; font-size: 9pt; line-height: 14pt; text-decoration: none; letter-spacing: 2px; color: #FFFFFF; padding-left: 10px}
+.b3d {
+ font-family: "宋体", "黑体", "仿宋_GB2312"; font-size: 9pt; line-height: 14pt; text-decoration: none;width: 100%; color: #ffffff; filter: glow(color=556890,strength=1) ; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;
+}
+.border {  border-color: #333333 black black #333333; border-style: solid; border-top-width: 1px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 1px}
+.m_border {  border-color: #63869C black black #63869C; border-style: solid; border-top-width: 1px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 1px}
+.title_blue {  font-family: "宋体", "黑体", "仿宋_GB2312"; font-size: 9pt; line-height: 20pt; color: #63869C; text-decoration: none; font-weight: bold}
+a{
+	font-size:9pt;
+	color:#000000;
+	text-decoration:none;
+}
+a:hover{
+	font-size:9pt;
+	color:#ff0000;
+	text-decoration:underline;
+}
+td{font-size:9pt;}
+
+input.a{   font-family: "宋体", "黑体"; font-size: 9pt; line-height: 14pt; border: 1px Black solid;}
+select {  font-family: "宋体", "黑体"; font-size: 9pt; line-height: 14pt;border: #000000 inset}
+input.b{	font-family : 宋体;	font-size : 10pt;background-color : Background;	color: #FFffff;	border : 1px solid ThreedLightShadow;	}
+textarea{   font-family: "宋体", "黑体"; font-size: 9pt; border: 1px solid Black;; line-height: 14pt}.htext {  font-family: "宋体", "黑体"; font-size: 9pt; line-height: 14pt; color: #CCCCCC; text-decoration: none}
+
+
+.select			{border: 0 inset buttonface; width: 100; font: icon; cursor: default;}
+.selected		{border: 0 inset buttonface; background: window; padding: 0; font: icon;}
+.selectTable	{height: 100%; width: 100%;
+				border: 2 inset buttonhighlight; background: buttonface;}
+.option			{font: icon; padding: 1; padding-left: 3; padding-right: 3; width: 100%;}
+.dropDown		{position: absolute; visibility: hidden; width: 100%;
+				border: 1 solid windowtext; padding: 0;
+				background: window; color: windowtext;}
+.select .button	{width: 16px; height: 5; font-family: webdings; padding: 0;
+				font-size: 11px; border: 2 outset buttonhighlight;}
+.table_right {
+	BORDER-RIGHT: #a4bee7 0px solid; BORDER-TOP: #a4bee7 1px solid; BORDER-LEFT: #a4bee7 0px solid; BORDER-BOTTOM: #a4bee7 1px solid; HEIGHT: 19px; BACKGROUND-COLOR: #e4f0ff
+}	
+body{margin:0pt;font-size: 9pt}
+.TitleBgcolor {
+	font-family: "宋体", "楷体_GB2312", "黑体";
+	font-size: 9pt;
+	line-height: 14pt;
+	color: #000000;
+	text-decoration: none;
+	background-color: #84B2EF;
+}
+.blueborder {
+	border: 1px solid #84B2EF;
+}
+input.text{
+	font-family: "宋体", "黑体", "仿宋_GB2312";
+	font-size: 9pt;
+	line-height: 14pt;
+	color: #000000;
+	border: 1px solid #000000;
+}
+select{
+	font-family: "宋体", "黑体", "仿宋_GB2312";
+	font-size: 9pt;
+	line-height: 14pt;
+	color: #000000;
+	border: 1px solid #000000;
+
+
+}
+input.search {
+	background-image: url(../images/search.jpg);
+	height: 40px;
+	width: 98px;
+	border: 0px none;
+	cursor: hand;
+
+
+}
+input.goto {
+	background-image: url(../images/goto.jpg);
+	height: 21px;
+	width: 51px;
+	border: 0px none;
+	cursor: hand;
+}
+input.button {
+	background-image: url(../images/button_bg.jpg);
+	height: 21px;
+	width: 55px;
+	border: 0px none;
+	cursor: hand;
+}
+input.buttonLong {
+	background-image: url(../images/button_bg_long.jpg);
+	height: 21px;
+	width: 75px;
+	border: 0px none;
+	cursor: hand;
+}
+input.add {
+	background-image: url(../images/add.gif);
+	height: 22px;
+	width: 60px;
+	border: 0px none;
+	cursor: hand;
+	background-color: #ffffff;
+}
+input.del {
+	background-image: url(../images/del.gif);
+	height: 22px;
+	width: 60px;
+	border: 0px none;
+	cursor: hand;
+	background-color: #ffffff;
+}
+.blueborder {
+	border: 1px solid #84B2EF;
+}
+
+.purpletableborder {
+	border-top-width: 1px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #CCCCCC;
+	border-right-color: #CCCCCC;
+	border-bottom-color: #CCCCCC;
+	border-left-color: #CCCCCC;
+}
+
+.tdcolorpurple {
+	font-family: "宋体", "楷体_GB2312", "黑体";
+	font-size: 9pt;
+	line-height: 14pt;
+	font-weight: bolder;
+	color: #9966FF;
+	background-color: #F7F3FF;
+}
+
+.redbgcorrelationLink {
+
+	font-family: "宋体", "楷体_GB2312", "黑体";
+	font-size: 10pt;
+	line-height: 16px;
+	color: #000000;
+	background-color: #84B2EF;
+	height: 20px;
+	padding-left: 20px;
+	font-weight: bolder;
+}
+
+a.BlackBlod {
+	font-family: "宋体", "黑体", "仿宋_GB2312";
+	font-size:9pt;
+	line-height: 14pt;
+	color: #000000;
+	font-weight:bolder;
+	text-decoration: none;
+}
+a.BlackBlod:hover 
+{
+	font-family: "宋体", "黑体", "仿宋_GB2312";
+	font-size:9pt;
+	line-height: 14pt;
+	color: #000000;
+	font-weight:bolder;
+	text-decoration: none;
+}
+a.Black {
+	font-family: "宋体", "黑体", "仿宋_GB2312";
+	font-size:9pt;
+	line-height: 14pt;
+	color: #000000;
+	text-decoration: none;
+}
+a.Black:hover 
+{
+	font-family: "宋体", "黑体", "仿宋_GB2312";
+	font-size:9pt;
+	line-height: 14pt;
+	color: #ff0000;
+	text-decoration: none;
+}	
+
+.listborder 
+{  
+	border-color: #333333 black black #333333; 
+	border-style: solid; 
+	border-top-width: 1px; 
+	border-right-width: 0px; 
+	border-bottom-width: 0px; 
+	border-left-width: 1px;
+}

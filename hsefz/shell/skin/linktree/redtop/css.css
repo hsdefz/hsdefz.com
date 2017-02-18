@@ -1,0 +1,31 @@
+.redtop
+ {
+	background-color: #FF4F02;
+	font-size: 9pt;
+	line-height: 14pt;
+	/*font-weight: bolder;*/
+	color: #F6D9CC;
+ }
+
+.redContent
+{
+	background-color: #F4F6D7;
+	font-size: 9pt;
+	line-height: 14pt;
+	/*font-weight: bolder;*/
+	color: #000000;
+ }
+
+A.redContent
+{
+	font-size:9pt;
+	color:#000000;
+	text-decoration:none;
+}
+
+A.redContent:hover
+{
+	font-size:9pt;
+	color:#FF4F02;
+	text-decoration:underline;
+}

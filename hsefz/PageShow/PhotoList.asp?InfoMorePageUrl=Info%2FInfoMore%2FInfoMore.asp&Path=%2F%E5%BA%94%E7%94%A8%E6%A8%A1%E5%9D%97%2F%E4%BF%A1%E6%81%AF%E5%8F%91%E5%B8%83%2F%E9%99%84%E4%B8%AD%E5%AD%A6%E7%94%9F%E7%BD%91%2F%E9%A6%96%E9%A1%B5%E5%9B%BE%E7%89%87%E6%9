@@ -1,0 +1,20 @@
+
+
+<script language="javascript" src="http://www.hsdefz.com/hsefz/library/pub.js"></script>
+<style type="text/css">
+	A{font-size:9pt;color:#000000;text-decoration:none;}
+	A:hover{font-size:9pt;text-decoration:underline;color:#FF0000;}
+	body{margin:0pt;}
+	.ry3d 
+		{
+				filter:  dropshadow(color=#cccccc,offx=3, offy=3, positive=2); 
+				margin-top: 10px; 
+				margin-right: 10px; 
+				margin-bottom: 10px; 
+				margin-left: 10px;
+		}
+</style>
+
+<body scroll="no" bgcolor="FFFFFF">
+<table border='0' cellpadding='0' cellspacing='0' class='purpletableborder' width='100%'><tr></table><script language=javascript>PartShowStyle('','inline');</script>
+</body>

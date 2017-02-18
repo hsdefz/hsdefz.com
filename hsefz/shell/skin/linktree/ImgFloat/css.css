@@ -1,0 +1,34 @@
+td.Normal
+{
+	background-image: url(img/tab.jpg);
+	width:70px;
+	height:23px;
+	background-repeat: no-repeat;
+	font-size:9pt;
+	cursor:hand;
+	padding-top:3pt;
+}
+td.Hover
+{
+	background-image: url(img/tab-hover.jpg);
+	width:70px;
+	height:23px;
+	background-repeat: no-repeat;
+	font-size:9pt;
+	cursor:hand;
+	padding-top:3pt;
+}
+
+a.LinkTree
+{
+	font-size:9pt;
+	text-decoration:none;
+	color:#000000;
+}
+
+a.LinkTree:hover
+{
+	font-size:9pt;
+	text-decoration:none;
+	color:#000000;
+}

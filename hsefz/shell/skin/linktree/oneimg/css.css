@@ -1,0 +1,30 @@
+.FriendLinkTitleTdCDC
+{
+	padding-left:10px;
+}
+
+.BlankPadleft
+{
+	padding-left:5px;
+}
+
+a.CDCLink
+{
+	font-size:9pt;
+	color:#000000;
+	text-decoration:none;
+}
+
+a.CDCLink:hover
+{
+	font-size:9pt;
+	color:#F4F4F4;
+	text-decoration:none;
+}
+
+.CDC
+{
+	padding-left:20px;
+	background-image: url(img/dot.GIF);
+	background-repeat: repeat-y;
+}

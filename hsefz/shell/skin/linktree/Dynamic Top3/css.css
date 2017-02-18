@@ -1,0 +1,30 @@
+.FriendLinkTitleTdCDC
+{
+	padding-left:15px;
+}
+
+.BlankPadleft
+{
+	padding-left:15px;
+}
+
+a.CDCLink
+{
+	font-size:9pt;
+	color:#000000;
+	text-decoration:none;
+}
+
+a.CDCLink:hover
+{
+	font-size:9pt;
+	color:#000000;
+	text-decoration:none;
+}
+
+.CDC
+{
+	padding-left:20px;
+	background-image: url(http://www.hsdefz.com/hsefz/shell/skin/linktree/Dynamic%20Top3/img/dot.GIF);
+	background-repeat: repeat-y;
+}

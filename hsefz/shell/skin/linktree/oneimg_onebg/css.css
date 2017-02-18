@@ -1,0 +1,3 @@
+.onecaption a {color: #000000;text-decoration: none;cursor:hand;font:menu;}
+.onecaption a:hover {color: #ffffff;text-decoration:underline;cursor:hand;font:menu;}
+.onecaption a:active {color: #FFFFFF;text-decoration:underline;cursor:hand;font:menu;}

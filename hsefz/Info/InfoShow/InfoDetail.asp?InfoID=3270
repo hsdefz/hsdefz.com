@@ -1,0 +1,78 @@
+
+
+<HTML>
+<HEAD>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<link href="../css/css.css" rel="stylesheet" type="text/css">
+<style>
+<!--
+td {
+	font-family: "宋体", "tahoma";
+	font-size: 9pt;
+	line-height: 14pt;
+	text-decoration: none;
+}
+.more A {FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: tahoma; TEXT-DECORATION: none}
+.more A:visited {FONT-SIZE: 9pt; COLOR: #000000; TEXT-DECORATION: none}
+.more A:link {FONT-SIZE: 9pt; COLOR: #000000; TEXT-DECORATION: none}
+.more A:hover {COLOR: #494977; TEXT-DECORATION: underline}
+-->
+</style>
+<SCRIPT language="JScript.encode">
+	#@~^KgAAAA==-mD~T{!DV,',Eq	0GzzNhr	zq	WWjk+9GiD^Rm/2JIeQ4AAA==^#~@	
+</SCRIPT>
+<script language="javascript" src="http://www.hsdefz.com/hsefz/library/pub.js"></script>
+<script language="javascript">
+	function Remark()
+	{
+		if(AllTrim(document.form1.CommentContent.value) == "")
+		{
+			window.alert("评论内容不能为空!");
+			return;
+		}
+		document.form1.action = "InfoRemark.asp?IsRemark=1&InfoID=3270&CatalogID=";
+		document.form1.submit();	
+	}
+	
+	function SetImage(objImage)
+	{
+		if((objImage.width-(800-150))>0) objImage.width=550;
+	}
+	
+</script>
+<script language="javascript">
+	//kstatus();
+	function kstatus()
+	{
+		self.status = "";
+		setTimeout("kstatus()",10);
+	}
+</script>
+<TITLE></TITLE>
+</HEAD>
+
+<BODY bgcolor="#0F3085">
+<br><br>
+
+<script language='javascript'>document.title='2011年华东师大二附中推荐生面试通知';</script><table width='680' height='100%' border='0' align='center' cellpadding='0' cellspacing='0' bgcolor='#FFFFFF' style='background-image:url(http://www.hsdefz.com/hsefz/Info/images/bg2.gif)'><tr><td colspan='2' rowspan='2' valign='top' class='listborder'><table width='95%' border='0' align='center' cellpadding='0' cellspacing='0' class='newstext'><tr><td><div id='InfoPath'></div><P><div align='center'><b style='font-size:12pt;'>2011年华东师大二附中推荐生面试通知</b></div><P><hr size='1'><div align='center' style='font-size:9pt'><br>来源:教务处&nbsp;&nbsp;2011年05月19日&nbsp;09:37&nbsp;&nbsp;阅读次数:9313&nbsp;&nbsp;发布者:沈晓晴</div><p><P style="LINE-HEIGHT: 150%; MARGIN: 0cm 0cm 0pt" class=MsoNormal><FONT size=3><SPAN style="LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; mso-bidi-font-size: 10.5pt; mso-ascii-font-family: &apos;Times New Roman&apos;; mso-hansi-font-family: &apos;Times New Roman&apos;">第一志愿报考我校的推荐生：你们好！</SPAN><SPAN style="LINE-HEIGHT: 150%; mso-bidi-font-size: 10.5pt" lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal><FONT size=3><SPAN style="LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; mso-bidi-font-size: 10.5pt; mso-ascii-font-family: &apos;Times New Roman&apos;; mso-hansi-font-family: &apos;Times New Roman&apos;">非常感谢你们在今年的市推荐生志愿中第一志愿报考我校！根据市推优工作的有关精神和我校推荐生择优办法，现定于</SPAN><SPAN style="LINE-HEIGHT: 150%; mso-bidi-font-size: 10.5pt" lang=EN-US>5</SPAN><SPAN style="LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; mso-bidi-font-size: 10.5pt; mso-ascii-font-family: &apos;Times New Roman&apos;; mso-hansi-font-family: &apos;Times New Roman&apos;">月</SPAN><SPAN style="LINE-HEIGHT: 150%; mso-bidi-font-size: 10.5pt" lang=EN-US>21</SPAN><SPAN style="LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; mso-bidi-font-size: 10.5pt; mso-ascii-font-family: &apos;Times New Roman&apos;; mso-hansi-font-family: &apos;Times New Roman&apos;">日（星期六）对推荐生志愿中<SPAN style="COLOR: red">第一志愿</SPAN>报考我校的推荐生举行综合能力面试。</SPAN><SPAN style="LINE-HEIGHT: 150%; mso-bidi-font-size: 10.5pt" lang=EN-US><o:p></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal><FONT size=3><SPAN style="LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; mso-bidi-font-size: 10.5pt; mso-ascii-font-family: &apos;Times New Roman&apos;; mso-hansi-font-family: &apos;Times New Roman&apos;">具体安排和注意事项如下：</SPAN><SPAN style="LINE-HEIGHT: 150%; mso-bidi-font-size: 10.5pt" lang=EN-US><o:p></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal><FONT size=3><SPAN style="LINE-HEIGHT: 150%; mso-bidi-font-size: 10.5pt" lang=EN-US>1</SPAN><SPAN style="LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; mso-bidi-font-size: 10.5pt; mso-ascii-font-family: &apos;Times New Roman&apos;; mso-hansi-font-family: &apos;Times New Roman&apos;">、推荐生面试按区县分上、下午两场：</SPAN><SPAN style="LINE-HEIGHT: 150%; mso-bidi-font-size: 10.5pt"> <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal><FONT size=3><SPAN style="LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; mso-bidi-font-size: 10.5pt; mso-ascii-font-family: &apos;Times New Roman&apos;; mso-hansi-font-family: &apos;Times New Roman&apos;">（</SPAN><SPAN style="LINE-HEIGHT: 150%; mso-bidi-font-size: 10.5pt" lang=EN-US>1</SPAN><SPAN style="LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; mso-bidi-font-size: 10.5pt; mso-ascii-font-family: &apos;Times New Roman&apos;; mso-hansi-font-family: &apos;Times New Roman&apos;">）上午面试区县：<SPAN style="COLOR: red">黄浦、徐汇、长宁、静安、浦东（含原南汇）</SPAN>，</SPAN><SPAN style="LINE-HEIGHT: 150%; mso-bidi-font-size: 10.5pt" lang=EN-US>8:00</SPAN><SPAN style="LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; mso-bidi-font-size: 10.5pt; mso-ascii-font-family: &apos;Times New Roman&apos;; mso-hansi-font-family: &apos;Times New Roman&apos;">报到；</SPAN><SPAN style="LINE-HEIGHT: 150%; mso-bidi-font-size: 10.5pt" lang=EN-US><o:p></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal><FONT size=3><SPAN style="LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; mso-bidi-font-size: 10.5pt; mso-ascii-font-family: &apos;Times New Roman&apos;; mso-hansi-font-family: &apos;Times New Roman&apos;">（</SPAN><SPAN style="LINE-HEIGHT: 150%; mso-bidi-font-size: 10.5pt" lang=EN-US>2</SPAN><SPAN style="LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; mso-bidi-font-size: 10.5pt; mso-ascii-font-family: &apos;Times New Roman&apos;; mso-hansi-font-family: &apos;Times New Roman&apos;">）下午面试区县：<SPAN style="COLOR: red">除上午面试区县外的所有区县</SPAN>，</SPAN><SPAN style="LINE-HEIGHT: 150%; mso-bidi-font-size: 10.5pt" lang=EN-US>12:15</SPAN><SPAN style="LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; mso-bidi-font-size: 10.5pt; mso-ascii-font-family: &apos;Times New Roman&apos;; mso-hansi-font-family: &apos;Times New Roman&apos;">报到。</SPAN><SPAN style="LINE-HEIGHT: 150%; mso-bidi-font-size: 10.5pt" lang=EN-US><o:p></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal><FONT size=3><SPAN style="LINE-HEIGHT: 150%; mso-bidi-font-size: 10.5pt" lang=EN-US>2</SPAN><SPAN style="LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; mso-bidi-font-size: 10.5pt; mso-ascii-font-family: &apos;Times New Roman&apos;; mso-hansi-font-family: &apos;Times New Roman&apos;">、请各位推荐生带好本人<SPAN style="COLOR: red">有效证件</SPAN>和笔，准时参加。如不能按时参加面试或中途离场，则视为放弃。</SPAN><SPAN style="LINE-HEIGHT: 150%; mso-bidi-font-size: 10.5pt" lang=EN-US><o:p></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal><FONT size=3><SPAN style="LINE-HEIGHT: 150%; mso-bidi-font-size: 10.5pt" lang=EN-US>3</SPAN><SPAN style="LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; mso-bidi-font-size: 10.5pt; mso-ascii-font-family: &apos;Times New Roman&apos;; mso-hansi-font-family: &apos;Times New Roman&apos;">、面试周转需等候，请学生在候试时，服从工作人员安排，耐心等候（可带一些书籍、点心和饮料）。上午面试估计在</SPAN><SPAN style="LINE-HEIGHT: 150%; mso-bidi-font-size: 10.5pt" lang=EN-US>12:00</SPAN><SPAN style="LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; mso-bidi-font-size: 10.5pt; mso-ascii-font-family: &apos;Times New Roman&apos;; mso-hansi-font-family: &apos;Times New Roman&apos;">左右结束，下午面试估计在</SPAN><SPAN style="LINE-HEIGHT: 150%; mso-bidi-font-size: 10.5pt" lang=EN-US>4:00</SPAN><SPAN style="LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; mso-bidi-font-size: 10.5pt; mso-ascii-font-family: &apos;Times New Roman&apos;; mso-hansi-font-family: &apos;Times New Roman&apos;">左右结束。</SPAN><SPAN style="LINE-HEIGHT: 150%; mso-bidi-font-size: 10.5pt" lang=EN-US><o:p></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal><FONT size=3><SPAN style="LINE-HEIGHT: 150%; mso-bidi-font-size: 10.5pt" lang=EN-US>4</SPAN><SPAN style="LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; mso-bidi-font-size: 10.5pt; mso-ascii-font-family: &apos;Times New Roman&apos;; mso-hansi-font-family: &apos;Times New Roman&apos;">、因面试当天学生人数较多，学校不向家长开放。家长如需等候，可到附近二号线地铁站广场休息，望谅！中午学校恕不提供客饭。</SPAN><SPAN style="LINE-HEIGHT: 150%; mso-bidi-font-size: 10.5pt" lang=EN-US><o:p></o:p></SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 21pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal><FONT size=3><SPAN style="LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; mso-bidi-font-size: 10.5pt; mso-ascii-font-family: &apos;Times New Roman&apos;; mso-hansi-font-family: &apos;Times New Roman&apos;">特此通知。</SPAN><SPAN style="LINE-HEIGHT: 150%; mso-bidi-font-size: 10.5pt" lang=EN-US><o:p></o:p></SPAN></FONT></P>
+<P style="TEXT-INDENT: 21pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="mso-bidi-font-size: 10.5pt" lang=EN-US><FONT size=3><SPAN style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </SPAN><o:p></o:p></FONT></SPAN></P>
+<P style="TEXT-INDENT: 69pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 6.57" class=MsoNormal align=right><FONT size=3><SPAN style="FONT-FAMILY: 宋体; mso-bidi-font-size: 10.5pt; mso-ascii-font-family: &apos;Times New Roman&apos;; mso-hansi-font-family: &apos;Times New Roman&apos;">华东师大二附中</SPAN></FONT><SPAN style="mso-bidi-font-size: 10.5pt" lang=EN-US><o:p><FONT size=3>&nbsp;</FONT></o:p></SPAN></P>
+<P style="TEXT-INDENT: 69pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 6.57" class=MsoNormal align=right><SPAN style="mso-bidi-font-size: 10.5pt" lang=EN-US><o:p></o:p></SPAN><SPAN style="FONT-SIZE: 10.5pt" lang=EN-US>2011</SPAN><SPAN style="FONT-FAMILY: 宋体; FONT-SIZE: 10.5pt; mso-ascii-font-family: &apos;Times New Roman&apos;; mso-hansi-font-family: &apos;Times New Roman&apos;">年</SPAN><SPAN style="FONT-SIZE: 10.5pt" lang=EN-US>5</SPAN><SPAN style="FONT-FAMILY: 宋体; FONT-SIZE: 10.5pt; mso-ascii-font-family: &apos;Times New Roman&apos;; mso-hansi-font-family: &apos;Times New Roman&apos;">月</SPAN><SPAN style="FONT-SIZE: 10.5pt" lang=EN-US>19</SPAN><SPAN style="FONT-FAMILY: 宋体; FONT-SIZE: 10.5pt; mso-ascii-font-family: &apos;Times New Roman&apos;; mso-hansi-font-family: &apos;Times New Roman&apos;">日</SPAN><SPAN style="FONT-SIZE: 10.5pt" lang=EN-US><o:p></o:p></SPAN></P>
+<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal><SPAN lang=EN-US><o:p><FONT size=3>&nbsp;</FONT></o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; MARGIN: 0cm 0cm 0pt" class=MsoNormal><FONT size=3><SPAN style="FONT-FAMILY: 宋体; mso-ascii-font-family: &apos;Times New Roman&apos;; mso-hansi-font-family: &apos;Times New Roman&apos;">校址：浦东张江高科技园区晨晖路</SPAN><SPAN lang=EN-US>555</SPAN><SPAN style="FONT-FAMILY: 宋体; mso-ascii-font-family: &apos;Times New Roman&apos;; mso-hansi-font-family: &apos;Times New Roman&apos;">号</SPAN></FONT></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: -36.75pt; MARGIN: 0cm 0cm 0pt 36.75pt; mso-char-indent-count: -3.5" class=MsoNormal><FONT size=3><SPAN style="FONT-FAMILY: 宋体; mso-hansi-font-family: &apos;Times New Roman&apos;">交通：乘坐地铁二号线到张江高科站、大桥五线、大桥六线、张川线、唐川线、张南线、徐川线等。</SPAN><SPAN lang=EN-US><SPAN style="mso-spacerun: yes">&nbsp;&nbsp; </SPAN></SPAN></FONT></P>
+<P align=center><IMG src="../../UploadImage/20110519/b2caa1aa-1e46-4fbe-8945-e9fae4882b1d.GIF"></P>
+<P align=center>&nbsp;</P></p><hr size='1'><div align='right'>【<a href='javascript:void(window.close())' class='BlackBlod'>关闭窗口</a>】</div></tr></table><br></td><td width='6' height='13' align='left' valign='top' background='../images/bk_leftm.jpg'><img src='../images/bk_leftt.jpg' width='6' height='13'></td></tr><tr><td background='../images/bk_leftm.jpg' width='6' height='100%'></td></tr><tr><td height='7' width='7' align='left' valign='top'><img src='../images/bk_downl.jpg' width='7' height='7'></td><td background='../images/bk_downm.jpg' height='7' width='100%'></td><td><img src='../images/bk_downr.jpg' width='6' height='7'></td></tr></table><script language='javascript'>document.all('InfoPath').innerHTML='通知 >  正文';</script>
+
+<br><br>
+</BODY>
+</HTML>

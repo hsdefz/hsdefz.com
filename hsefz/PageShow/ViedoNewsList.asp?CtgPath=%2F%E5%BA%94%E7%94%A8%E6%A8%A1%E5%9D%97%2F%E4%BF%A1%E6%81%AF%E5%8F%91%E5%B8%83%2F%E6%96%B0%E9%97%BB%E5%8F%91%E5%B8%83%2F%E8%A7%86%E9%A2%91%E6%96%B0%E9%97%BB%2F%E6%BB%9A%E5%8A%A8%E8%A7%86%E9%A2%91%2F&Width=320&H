@@ -1,0 +1,37 @@
+
+
+<!-- 视频新闻显示(摸板，只显示最新的一条) -->
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<SCRIPT language="JScript.encode">
+	#@~^KgAAAA==-mD~T{!DV,',Eq	0GzzNhr	zq	WWjk+9GiD^Rm/2JIeQ4AAA==^#~@	
+</SCRIPT>
+<script language="javascript" src="http://www.hsdefz.com/hsefz/library/pub.js"></script>
+<style type="text/css">
+	td{font-size:9pt;}
+	body{margin:0pt;}
+	a
+	{
+	font-size:9pt;
+	color:#000000;
+	text-decoration:none;
+	}
+	a:hover
+	{
+	font-size:9pt;
+	color:#ff0000;
+	text-decoration:underline;
+	}
+</style>
+<script language="javascript">
+//document.onmousedown=click;
+//document.oncontextmenu = new Function("return false;")
+</script>
+</head>
+
+<body scroll="no" bgcolor="FFFFFF" oncontextmenu="return false" onselectstart="return false" ondragstart="return false">
+<!--ViedoNewsList.asp-->
+<script language=javascript>PartShowStyle('','none');</script>
+</body>
+</html>

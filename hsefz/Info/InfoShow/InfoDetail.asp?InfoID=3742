@@ -1,0 +1,76 @@
+
+
+<HTML>
+<HEAD>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<link href="../css/css.css" rel="stylesheet" type="text/css">
+<style>
+<!--
+td {
+	font-family: "宋体", "tahoma";
+	font-size: 9pt;
+	line-height: 14pt;
+	text-decoration: none;
+}
+.more A {FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: tahoma; TEXT-DECORATION: none}
+.more A:visited {FONT-SIZE: 9pt; COLOR: #000000; TEXT-DECORATION: none}
+.more A:link {FONT-SIZE: 9pt; COLOR: #000000; TEXT-DECORATION: none}
+.more A:hover {COLOR: #494977; TEXT-DECORATION: underline}
+-->
+</style>
+<SCRIPT language="JScript.encode">
+	#@~^KgAAAA==-mD~T{!DV,',Eq	0GzzNhr	zq	WWjk+9GiD^Rm/2JIeQ4AAA==^#~@	
+</SCRIPT>
+<script language="javascript" src="http://www.hsdefz.com/hsefz/library/pub.js"></script>
+<script language="javascript">
+	function Remark()
+	{
+		if(AllTrim(document.form1.CommentContent.value) == "")
+		{
+			window.alert("评论内容不能为空!");
+			return;
+		}
+		document.form1.action = "InfoRemark.asp?IsRemark=1&InfoID=3742&CatalogID=";
+		document.form1.submit();	
+	}
+	
+	function SetImage(objImage)
+	{
+		if((objImage.width-(800-150))>0) objImage.width=550;
+	}
+	
+</script>
+<script language="javascript">
+	//kstatus();
+	function kstatus()
+	{
+		self.status = "";
+		setTimeout("kstatus()",10);
+	}
+</script>
+<TITLE></TITLE>
+</HEAD>
+
+<BODY bgcolor="#0F3085">
+<br><br>
+
+<script language='javascript'>document.title='2012年华东师大二附中（含紫竹校区）自荐生测试通知';</script><table width='680' height='100%' border='0' align='center' cellpadding='0' cellspacing='0' bgcolor='#FFFFFF' style='background-image:url(http://www.hsdefz.com/hsefz/Info/images/bg2.gif)'><tr><td colspan='2' rowspan='2' valign='top' class='listborder'><table width='95%' border='0' align='center' cellpadding='0' cellspacing='0' class='newstext'><tr><td><div id='InfoPath'></div><P><div align='center'><b style='font-size:12pt;'>2012年华东师大二附中（含紫竹校区）自荐生测试通知</b></div><P><hr size='1'><div align='center' style='font-size:9pt'><br>来源:教务处&nbsp;&nbsp;2012年05月17日&nbsp;09:05&nbsp;&nbsp;阅读次数:973&nbsp;&nbsp;发布者:沈晓晴</div><p><SPAN style="LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-fareast">
+<P style="LINE-HEIGHT: 150%; MARGIN: 0cm 0cm 0pt" class=MsoNormal><SPAN style="LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-fareast">同学：你好！<SPAN lang=EN-US><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 24pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-fareast">非常感谢你在今年的市自荐生志愿中报考我校！根据市自主招生工作的有关精神和我校自荐生择优办法，现定于<SPAN lang=EN-US>5</SPAN>月<SPAN lang=EN-US>20</SPAN>日（星期日）在我校对初选入围的学生（含紫竹校区）举行综合能力测试。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 24pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-fareast">具体安排和注意事项如下：<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 24pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-fareast" lang=EN-US>1</SPAN><SPAN style="LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-fareast">、我们已通过短信通知初选入围的学生（家长），请决定参加的同学周五前回复。因报名人数较多，请未能收到测试通知的学生和家长谅解！<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 24pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-fareast" lang=EN-US>2</SPAN><SPAN style="LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-fareast">、请接到短信通知的各位自荐生带好本人<SPAN style="COLOR: red">有效证件</SPAN>和文具，准时参加。测试期间请遵守试场纪律，不得使用手机等通讯工具。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 24pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-fareast" lang=EN-US>3</SPAN><SPAN style="LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-fareast">、测试时间为一天，下午<SPAN lang=EN-US>3</SPAN>点前结束。中午学校提供午餐（免费）。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 24pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-fareast" lang=EN-US>4</SPAN><SPAN style="LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-fareast">、测试当天学校不向家长开放。家长如需等候，可到附近二号线地铁站广场休息，望谅！如自驾车辆请有序停放晨晖路两侧。</SPAN></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 24pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-fareast; mso-font-kerning: 1.0pt; mso-bidi-font-family: &apos; Times: ; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">特此通知</SPAN></SPAN><SPAN style="LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-fareast">。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 24pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-fareast" lang=EN-US><o:p>&nbsp;</o:p></SPAN></P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; TEXT-INDENT: 24pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal align=right><SPAN style="LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-fareast">华东师大二附中<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P style="TEXT-ALIGN: right; LINE-HEIGHT: 150%; TEXT-INDENT: 24pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0; mso-para-margin-left: 0gd" class=MsoDate align=right><SPAN style="LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-fareast" lang=EN-US>2012</SPAN><SPAN style="LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-fareast">年<SPAN lang=EN-US>5</SPAN>月<SPAN lang=EN-US>17</SPAN>日<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 24pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-fareast" lang=EN-US><o:p>&nbsp;</o:p></SPAN></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 24pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-fareast">校址：浦东张江高科技园区晨晖路<SPAN lang=EN-US>555</SPAN>号<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P style="LINE-HEIGHT: 150%; TEXT-INDENT: 24pt; MARGIN: 0cm 0cm 0pt; mso-char-indent-count: 2.0" class=MsoNormal><SPAN style="LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: minor-fareast">交通： 乘坐地铁二号线到张江高科站、大桥五线、大桥六线、张川线、唐川线、张南线、徐川线等。</SPAN></P>
+<P align=center><IMG src="../../UploadImage/20110519/b2caa1aa-1e46-4fbe-8945-e9fae4882b1d.GIF"></P></p><hr size='1'><div align='right'>【<a href='javascript:void(window.close())' class='BlackBlod'>关闭窗口</a>】</div></tr></table><br></td><td width='6' height='13' align='left' valign='top' background='../images/bk_leftm.jpg'><img src='../images/bk_leftt.jpg' width='6' height='13'></td></tr><tr><td background='../images/bk_leftm.jpg' width='6' height='100%'></td></tr><tr><td height='7' width='7' align='left' valign='top'><img src='../images/bk_downl.jpg' width='7' height='7'></td><td background='../images/bk_downm.jpg' height='7' width='100%'></td><td><img src='../images/bk_downr.jpg' width='6' height='7'></td></tr></table><script language='javascript'>document.all('InfoPath').innerHTML='通知 >  正文';</script>
+
+<br><br>
+</BODY>
+</HTML>
